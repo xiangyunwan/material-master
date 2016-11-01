@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\github-source\material-master\app\build\intermediates\exploded-aar\com.github.rey5137\lib\1.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.1"
+        sha1="5e0c924099c76a9be231183230ae602834e80b5b">
+        <dex dex="D:\github-source\material-master\app\build\intermediates\pre-dexed\debug\com.github.rey5137-lib-1.1.0_0a54ea3fb46e7f73f18a303fced4bf4d68b04eab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\github-source\material-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\jars\libs\internal_impl-21.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.1"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="D:\github-source\material-master\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.2_57ded7860c7f92b8d0dc7768d203ea72c77f6637.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\github-source\material-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.1"
+        sha1="7ae2d38807a43b2f2185ff4089a92c790b579e54">
+        <dex dex="D:\github-source\material-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-21.0.2_896e47d37c7a3f6104484ccf8e7d6021f600b64c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\github-source\material-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.1"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="D:\github-source\material-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-21.0.2_07b652cb5daf30ed42d664af888a168151a073f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\github-source\material-master\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.1"
+        sha1="b017100da14f9c158c9f5f2f508333c224b24a7c">
+        <dex dex="D:\github-source\material-master\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-21.0.2_3678f606ec49bec13f2e8db990d4be4716db5d96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\gradle-2.14.1-all\gradle-2.14.1\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.0\7ff0e000d1e27e356567f56c92af3b8ab912636f\picasso-2.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.1"
+        sha1="7ff0e000d1e27e356567f56c92af3b8ab912636f">
+        <dex dex="D:\github-source\material-master\app\build\intermediates\pre-dexed\debug\picasso-2.5.0_201d8191b3ae8a50cd4402401f304a0c90bb4a16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\JavaIDE\JavaIDE\android_sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.2\support-annotations-21.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.1"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="D:\github-source\material-master\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.2_b9ae7dd2e88e2b89f5384a78b801b15dd642a81c.jar" />
+    </item>
+
+</items>
